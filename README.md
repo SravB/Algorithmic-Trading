@@ -2,4 +2,4 @@
 
 Algorithmic trading using machine learning.
 
-![Screenshot](Machine Learning Stock Predictor Results.jpg)
+![Screenshot](Machine_Learning_Stock_Predictor_Results.jpg)
