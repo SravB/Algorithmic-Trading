@@ -10,4 +10,4 @@ Below is a screenshot of the algorithm's results on a large sample of stocks whe
 
 ![Screenshot](Stock_Predictor_Results.jpg)
 
-Overall, this algorithm predicts whether the stock price will rise or fall with approximately a 75% accuracy. This is far better than the 50% produced when randomly guessing.
+Overall, this algorithm predicts whether the stock price will rise or fall with approximately a 75% accuracy. This is far better than the 50% produced when randomly guessing. 
