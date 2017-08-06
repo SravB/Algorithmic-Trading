@@ -1,6 +1,6 @@
 # Algorithmic-Trading
 
-This machine learning algorithm was built using Python 3 and scikit-learn with a Decision Tree Classifier. The program gathers stock data using the Google Finance API and pandas. It illustrates the data using matplotlib. 
+This machine learning algorithm was built using Python 3 and scikit-learn with a Decision Tree Classifier. The program gathers stock data using the Google Finance API and pandas. The data is illustrated using matplotlib. 
 
 ![Screenshot](algo.jpg)
 
